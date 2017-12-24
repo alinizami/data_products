@@ -1,0 +1,12 @@
+name: Data_products_Final
+title: Data_products_Final
+username:
+account: alinizami
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 251470
+bundleId: 1149598
+url: https://alinizami.shinyapps.io/Data_products_Final/
+when: 1514130448.5794
+asMultiple: FALSE
+asStatic: FALSE
